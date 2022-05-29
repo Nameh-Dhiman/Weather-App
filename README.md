@@ -11,12 +11,12 @@ Goal behind the project was to create an applicaion to apply all the basics of J
 Weather app are the simplest method to know about the updates of the upcoming weather.
 </p>
 
-###Credits
+### Credits
 ___
 
 * References: [MDN Docs](https://developer.mozilla.org/en-US/ ) | [W3Schools](https://www.w3schools.com/) | [Open Weather API](https://openweathermap.org/) | [Google Maps API](https://developers.google.com/maps)
 
-###Tech Stack
+### Tech Stack
 ___
 
 * HTML 5
